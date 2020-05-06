@@ -1,15 +1,25 @@
 # Rent_Map_Nagivation
 The project will help you find the rent information when you are trying to locate a place
 
-## The performance is like:
-#### 1. Choose place
+## The instructions on usage:
 
-![Choose place](https://github.com/Wapiti08/Rent_Map_Nagivation/blob/master/%E7%95%8C%E9%9D%A2%E6%95%88%E6%9E%9C1.PNG)
+### 1. Execute all pachong files to get house sources information
+```
+python3 pachong1.py
+```
+You will get the information with csv format
+### 2. Load the information and Input the place where you want to rent house:
+Open the index.html with your browser.
 
-#### 2. Combine oneline map
+Then go throught the next steps.
+#### 2.1. Choose place
 
-![Combine oneline map](https://github.com/Wapiti08/Rent_Map_Nagivation/blob/master/%E7%95%8C%E9%9D%A2%E6%95%88%E6%9E%9C2.PNG)
+![Choose place](https://github.com/Wapiti08/Rent_Map_Nagivation/blob/master/pictures/input_interface.PNG)
 
-#### 3. Results showing
+#### 2.2 Combine oneline map
 
-![Results showing](https://github.com/Wapiti08/Rent_Map_Nagivation/blob/master/%E7%95%8C%E9%9D%A2%E6%95%88%E6%9E%9C3.PNG)
+![Combine oneline map](https://github.com/Wapiti08/Rent_Map_Nagivation/blob/master/pictures/the_journey.PNG)
+
+#### 2.3 Results showing
+
+![Results showing](https://github.com/Wapiti08/Rent_Map_Nagivation/blob/master/pictures/places_found.PNG)
