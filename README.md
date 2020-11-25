@@ -1,4 +1,4 @@
-# Rent_Map_Nagivation
+# SpareRooms
 The project will help you find the rent information when you are trying to locate a place
 
 ## The instructions on usage:
